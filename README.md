@@ -9,6 +9,6 @@ Currently, I'm pursuing full time MSc Data Science at Christ University, Pune.
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning MSc Data Science
+- 🌱 I’m currently studying MSc Data Science
 - 📫 Reach me at: dan.nush6@gmail.com
 - 🧑‍💻 Worked with: python, java
