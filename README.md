@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Thamizhanbu Elamurugu, you can call me Anbu.
+I'm Thamizhanbu Elamurugu, you can call me Anbu.  
 I have 2 years of working experience in Accenture and currently pursuing full time MSc Data Science at Christ University, Pune
 
 <!--
